@@ -13,3 +13,14 @@
 tkt开发者https://github.com/Xiaokang2022
 
 (制作不易，请给他点点Start吧)
+
+项目预览
+
+白天模式
+
+![D7371A4CCFCBAFD1D3DEBCF176CC5448](https://github.com/SHTLUOLEI/Login2.0/assets/112939682/aeeaa62f-1c77-4129-aeca-140fa97aec91)
+
+深色模式
+
+![F973A96E3F5EF37271B41B21BEACEAC4](https://github.com/SHTLUOLEI/Login2.0/assets/112939682/d1fcbdbe-432f-46bc-95fc-f838e3b534b3)
+
