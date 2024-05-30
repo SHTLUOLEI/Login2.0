@@ -5,4 +5,5 @@
 《进行友好交流之后》
 这个项目就作为tkt3的展示项目了
 
-tkt的开发者https://github.com/Xiaokang2022（制作不易，给他个Start吧）
+tkt开发者https://github.com/Xiaokang2022
+(制作不易，给他个Start吧)
