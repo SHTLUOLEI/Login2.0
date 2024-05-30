@@ -1,4 +1,7 @@
 # Login2.0
+
+tkintertools==3.0.0b1
+
 本项目是基于tkintertools3的，目前tkintertools3为预发布版，普通pip install tkintertools 只会安装2，需要注意
 
 （千万不要像我一样傻傻的看着tkintertools2的教程下载tkintertools2，还以为自己在做tkintertools3）
